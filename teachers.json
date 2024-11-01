@@ -1,0 +1,187 @@
+    "middle": {
+        "الرياضيات": [
+            {
+                "name": "الأستاذ/ حسين جميل",
+                "phone": "01153736578",
+                "address": [
+                    "الشعبية - أول ش قطونيل - أمام صيدلية إكسترا"
+                ],
+                "image": "https://i.ibb.co/yyZXSNs/work-in-progress.png"
+            },
+            {
+                "name": "الأستاذ/ محمد محمود",
+                "phone": "01221865129",
+                "address": [
+                    "شارع الترعة - المحلة الكبرى"
+                ],
+                "image": "https://i.ibb.co/yyZXSNs/work-in-progress.png"
+            }
+        ],
+        "اللغة العربية": [
+            {
+                "name": "الأستاذ/ محمود الجميزي",
+                "phone": "01281090790",
+                "address": [
+                    "1/ العباسي الجديد - الشارع المقابل لمحل zoro",
+                    "2/ الجمهورية - شارع المسيري"
+                ],
+                "image": "https://i.ibb.co/yyZXSNs/work-in-progress.png"
+            },
+            {
+                "name": "الأستاذ/ محمد بيرم",
+                "phone": "01006562355",
+                "address": [
+                    "المنشية الجديدة - شارع قاعة سحر",
+                    "السبع بنات - طلعت حرب",
+                    "عزبة خضر امتداد مقلة المنار"
+                ],
+                "image": "https://i.ibb.co/yyZXSNs/work-in-progress.png"
+            },
+            {
+                "name": "الأستاذ/ أحمد عبدالوارث",
+                "phone": "01273028289",
+                "address": [
+                    "ابو شاهين بجوار مكتبة الشروق"
+                ],
+                "image": "https://example.com/images/ahmed_abd_elwarith.jpg"
+            }
+        ],
+        "العلوم": [
+            {
+                "name": "الأستاذ/ عبدالرحمن الزماني",
+                "phone": "01002209968",
+                "address": [
+                    "الجمهورية - آخر شارع ابو جبه - منزل رقم 104"
+                ],
+                "image": "https://example.com/images/abd_elrahman_elzamany.jpg"
+            }
+        ],
+        "اللغة الإنجليزية": [
+            {
+                "name": "الأستاذ/ محمد بدوي",
+                "phone": "01110371624",
+                "address": [
+                    "الجمهورية - ش المصرف - أمام سنترال ريفال"
+                ],
+                "image": "https://example.com/images/mohamed_badawy.jpg"
+            }
+        ]
+    },
+    "secondary": {
+        "الرياضيات": [
+            {
+                "name": "الأستاذ/ حسين جميل",
+                "phone": "01153736578",
+                "address": [
+                    "الشعبية - أول ش قطونيل - أمام صيدلية إكسترا"
+                ],
+                "image": "https://example.com/images/hossain_jameel.jpg"
+            }
+        ],
+        "الكيمياء": [
+            {
+                "name": "الأستاذة/ ورد القاضي",
+                "phone": "01008187344",
+                "address": [
+                    "المنشية - آخر شارع عشرة"
+                ],
+                "image": "https://example.com/images/ward_elqady.jpg"
+            },
+            {
+                "name": "الأستاذ/ طارق أشرف",
+                "phone": "01008898317",
+                "address": [
+                    "الجمهورية - ش محمد توفيق - أمام ياقوت للألبان منزل 33",
+                    "الشعبية - ش مستشفى الصفوة أمام مدرسة المحلة الصنايع بسنتر توب ليفل"
+                ],
+                "image": "https://example.com/images/tarek_ashraf.jpg"
+            }
+        ],
+        "الفلسفة": [
+            {
+                "name": "الأستاذ/ محمد عماد",
+                "phone": "01025842425",
+                "address": [
+                    "دوران محب بجوار جامع السعد - المحلة الكبرى"
+                ],
+                "image": "https://example.com/images/mohamed_emad.jpg"
+            }
+        ],
+        "اللغة الفرنسية": [
+            {
+                "name": "الأستاذة/ ندى العيسوي",
+                "phone": "01208830562",
+                "address": [
+                    "محب - أمام مستشفى رب الحرمين"
+                ],
+                "image": "https://example.com/images/nada_elaisawy.jpg"
+            }
+        ],
+        "الأحياء": [
+            {
+                "name": "الأستاذ/ عبدالرحمن الزماني",
+                "phone": "01002209968",
+                "address": [
+                    "الجمهورية - آخر شارع ابو جبه - منزل رقم 104"
+                ],
+                "image": "https://example.com/images/abd_elrahman_elzamany.jpg"
+            }
+        ],
+        "اللغة العربية": [
+            {
+                "name": "الأستاذ/ محمد بيرم",
+                "phone": "01006562355",
+                "address": [
+                    "المنشية الجديدة - شارع قاعة سحر",
+                    "السبع بنات - طلعت حرب",
+                    "عزبة خضر امتداد مقلة المنار"
+                ],
+                "image": "https://example.com/images/mohamed_beyram.jpg"
+            },
+            {
+                "name": "الأستاذ/ أحمد عبدالوارث",
+                "phone": "01273028289",
+                "address": [
+                    "ابو شاهين بجوار مكتبة الشروق"
+                ],
+                "image": "https://example.com/images/ahmed_abd_elwarith.jpg"
+            }
+        ],
+        "الفيزياء": [
+            {
+                "name": "الأستاذ/ محمد مجدي",
+                "phone": "01117310748",
+                "address": [
+                    "الجمهورية - شارع السيد رمضان بجوار مطعم أبو دراع"
+                ],
+                "image": "https://example.com/images/mohamed_magdy.jpg"
+            }
+        ],
+        "اللغة الألمانية": [
+            {
+                "name": "الأستاذ/ محمد عبدالرازق",
+                "phone": "01115726225",
+                "address": [],
+                "image": "https://example.com/images/mohamed_abdelrazek.jpg"
+            }
+        ]
+    },
+    "primary": {
+        "اللغة العربية": [
+            {
+                "name": "الأستاذة/ مي أحمد",
+                "phone": "01228159433",
+                "address": [
+                    "كفر حجازي - المنشيه - شارع سعد بن معاذ"
+                ],
+                "image": "https://example.com/images/may_ahmed.jpg"
+            }
+        ]
+    }
+}
+
+# Save to JSON file
+with open('/mnt/data/teachers_data.json', 'w', encoding='utf-8') as f:
+    json.dump(teachers_data_with_images, f, ensure_ascii=False, indent=4)
+
+'/mnt/data/teachers_data.json'
